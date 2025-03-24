@@ -1,0 +1,1 @@
+this project helps you to get started with vsc and git commands 
